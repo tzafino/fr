@@ -3642,7 +3642,7 @@
         {
             "number":"696",
             "name":"PlatineWeb",
-            "logo":"2020_30_01_19_52_25_566.png",
+            "logo":"Platine Webradio.jpg",
             "streamUrl":"http://hosting-serv.com:9010/;stream/1;",
             "yourmuzeId":"0","state":"1"
         },
@@ -3747,7 +3747,7 @@
         {
             "number":"681",
             "name":"Xplicit Kontemp",
-            "logo":"2020_30_01_19_52_19_916.png",
+            "logo":"XPLICIT KONTEMP.png",
             "streamUrl":"https://listen.radioking.com/radio/121384/stream/275272",
             "yourmuzeId":"0","state":"1"
         },
@@ -3887,7 +3887,7 @@
         {
             "number":"661",
             "name":"Radio Primitive",
-            "logo":"2020_30_01_19_52_18_625.png",
+            "logo":"Radio Primitive.png",
             "streamUrl":"http://www.radioprimitive.fr:8000/live",
             "yourmuzeId":"0","state":"1"
         },
@@ -4503,7 +4503,7 @@
         {
             "number":"573",
             "name":"RCM FM",
-            "logo":"2020_30_01_19_51_59_011.png",
+            "logo":"RCM FM.png",
             "streamUrl":"http://str20.creacast.com/rcm",
             "yourmuzeId":"0","state":"1"
         },
@@ -4573,7 +4573,7 @@
         {
             "number":"563",
             "name":"Remzouille Radio",
-            "logo":"2020_30_01_19_51_53_696.png",
+            "logo":"remzouille radio.jpg",
             "streamUrl":"http://ice.remzouilleradio.com/remzouille128",
             "yourmuzeId":"0","state":"1"
         },
@@ -4601,7 +4601,7 @@
         {
             "number":"559",
             "name":"RVV - RADIO VALLÉE DU VAR",
-            "logo":"2020_30_01_19_51_53_065.png",
+            "logo":"RVV radio vallé.jpg",
             "streamUrl":"http://91.121.162.224:9033/stream.mp3",
             "yourmuzeId":"0","state":"1"
         },
@@ -4615,21 +4615,21 @@
         {
             "number":"557",
             "name":"Radio Balagne",
-            "logo":"2020_30_01_19_51_53_255.png",
+            "logo":"radio balagne.jpg",
             "streamUrl":"http://7878.go2stream.fr:8000/stream",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"556",
             "name":"Jordanne FM",
-            "logo":"2020_30_01_19_51_53_255.png",
+            "logo":"jordanne FM.png",
             "streamUrl":"http://live.jordannefm.com:8000/JFMCantalMD.mp3",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"555",
             "name":"Radio Verdon FM",
-            "logo":"2020_30_01_19_51_53_065.png",
+            "logo":"radio verdon.png",
             "streamUrl":"http://91.121.153.12:9110/stream",
             "yourmuzeId":"0","state":"1"
         },
@@ -4818,14 +4818,14 @@
         {
             "number":"528",
             "name":"BLP Radio",
-            "logo":"2020_30_01_19_51_47_080.png",
+            "logo":"BLP Radio.jpg",
             "streamUrl":"http://stream2.blpradio.fr/blpradio",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"527",
             "name":"Radio D4B FM",
-            "logo":"2020_30_01_19_51_47_080.png",
+            "logo":"Radio D4B FM.png",
             "streamUrl":"http://radiod4b.asso.fr:8000/live.mp3",
             "yourmuzeId":"0","state":"1"
         },
@@ -5237,7 +5237,7 @@
         },
         {
             "number":"468",
-            "name":"MixaRadio - Saint-Quentin",
+            "name":"saint-Quentin.jpg",
             "logo":"2020_30_01_19_51_33_794.png",
             "streamUrl":"https://manager3.streamradio.fr:1765/stream",
             "yourmuzeId":"0","state":"1"
@@ -5483,7 +5483,7 @@
         {
             "number":"433",
             "name":"Radio Déclic FM",
-            "logo":"2020_30_01_19_51_27_249.png",
+            "logo":"radio déclic FM.jpg",
             "streamUrl":"http://ks39339.kimsufi.com:8002/declic.mp3",
             "yourmuzeId":"0","state":"1"
         },
@@ -5532,7 +5532,7 @@
         {
             "number":"426",
             "name":"SLS Radio",
-            "logo":"2020_30_01_19_51_26_550.png",
+            "logo":"SLS radio.jpg",
             "streamUrl":"http://radio7.pro-fhi.net:9060/stream",
             "yourmuzeId":"0","state":"1"
         },
@@ -6344,7 +6344,7 @@
         {
             "number":"310",
             "name":"Montagne FM",
-            "logo":"2020_30_01_19_51_01_547.png",
+            "logo":"Montagne radio.png",
             "streamUrl":"https://montagnefm.ice.infomaniak.ch/montagnefm-96.mp3",
             "yourmuzeId":"0","state":"1"
         },
@@ -6449,7 +6449,7 @@
         {
             "number":"295",
             "name":"Radio Pulse",
-            "logo":"2020_30_01_19_51_01_116.png",
+            "logo":"radio pulse.png",
             "streamUrl":"http://163.172.28.44:8080/pulse",
             "yourmuzeId":"0","state":"1"
         },
@@ -7884,7 +7884,7 @@
         {
             "number":"89",
             "name":"BBR Slowly Radio",
-            "logo":"2020_30_01_19_50_22_123.png",
+            "logo":"bbr slowly radio.png",
             "streamUrl":"http://94.23.222.12:8021/stream",
             "yourmuzeId":"0","state":"1"
         },
@@ -7933,7 +7933,7 @@
         {
             "number":"82",
             "name":"Radio Cap Ferret",
-            "logo":"2020_30_01_19_50_21_455.png",
+            "logo":"Radio Cap Ferret.jpg",
             "streamUrl":"http://198.7.59.28:8273/;stream.nsv",
             "yourmuzeId":"0","state":"1"
         },
