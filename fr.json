@@ -1087,7 +1087,7 @@
         {
             "number":"1061",
             "name":"Cob FM",
-            "logo":"2020_30_01_19_53_57_882.png",
+            "logo":"Cob FM.jpg",
             "streamUrl":"http://s6.myradiostream.com:20966/;listen.mp3",
             "yourmuzeId":"0","state":"1"
         },
@@ -1220,7 +1220,7 @@
         {
             "number":"1042",
             "name":"Secousse",
-            "logo":"2020_30_01_19_53_51_438.png",
+            "logo":"radio secousse.png",
             "streamUrl":"http://stream.secousse.org:8000/secousse",
             "yourmuzeId":"0","state":"1"
         },
@@ -1388,7 +1388,7 @@
         {
             "number":"1018",
             "name":"Toda Radio",
-            "logo":"2020_30_01_19_53_44_841.png",
+            "logo":"Toda Radio.png",
             "streamUrl":"http://94.23.200.89:8000/toda128k.mp3",
             "yourmuzeId":"0","state":"1"
         },
@@ -1507,7 +1507,7 @@
         {
             "number":"1001",
             "name":"Radio Klub",
-            "logo":"2020_30_01_19_53_38_385.png",
+            "logo":"Radio Klub.jpg",
             "streamUrl":"http://158.69.196.254:4006/;stream.nsv",
             "yourmuzeId":"0","state":"1"
         },
@@ -1871,7 +1871,7 @@
         {
             "number":"949",
             "name":"Juvignen FM",
-            "logo":"2020_30_01_19_53_25_207.png",
+            "logo":"juvgnen FM.png",
             "streamUrl":"https://listen.radioking.com/radio/42805/stream/79417",
             "yourmuzeId":"0","state":"1"
         },
@@ -2130,21 +2130,21 @@
         {
             "number":"912",
             "name":"Bernay-radio.fr",
-            "logo":"2020_30_01_19_53_18_324.png",
+            "logo":"Bernay-radio.fr.jpg",
             "streamUrl":"https://radio10.pro-fhi.net/live/bernay-radio.fr",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"911",
             "name":"Welcome Radio",
-            "logo":"2020_30_01_19_53_18_324.png",
+            "logo":"welcomr radio.jpg",
             "streamUrl":"https://listen.radionomy.com/welcomeradio",
             "yourmuzeId":"0","state":"1"
         },
         {
             "number":"910",
             "name":"La Grande Evasion",
-            "logo":"2020_30_01_19_53_18_311.png",
+            "logo":"la grande evasion.jpg",
             "streamUrl":"https://radio.lagrandeevasion.fr/evasion.mp3",
             "yourmuzeId":"0","state":"1"
         },
