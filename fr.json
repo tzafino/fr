@@ -758,7 +758,7 @@
         {
             "number":"1110",
             "name":"RCV 99 FM",
-            "logo":"2020_30_01_19_54_11_136.png",
+            "logo":"RCV 99 FM",
             "streamUrl":"https://listen.radioking.com/radio/3086/stream/9476",
             "yourmuzeId":"0","state":"1"
         },
@@ -3621,7 +3621,7 @@
         {
             "number":"699",
             "name":"RBN - Radio Bonne Nouvelle",
-            "logo":"2020_30_01_19_52_25_757.png",
+            "logo":"rbn- radio bonne nouvelle.png",
             "streamUrl":"http://dn10215.hostncast.net:8000/listen.mp3",
             "yourmuzeId":"0","state":"1"
         },
