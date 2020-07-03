@@ -1,10 +1,4 @@
-
-
-
-
-
-
-    {"success":true,"message":"","radios":[
+{"success":true,"message":"","radios":[
         {
             "number":"1266",
             "name":"Radio RMC",
